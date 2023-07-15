@@ -10,5 +10,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "items": ["CountryName1", "CountryName2", "CountryName3", "CountryName4", "CountryName5", "CountryName6", "CountryName7", "CountryName8", "CountryName9", "CountryName10"]
 }
